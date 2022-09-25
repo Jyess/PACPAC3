@@ -11,16 +11,17 @@
 </div>
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of contents</summary>
   <ol>
     <li>
       <a href="#about">About</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#story">Story</a></li>
+        <li><a href="#built-with">Built with</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Getting started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
       </ul>
