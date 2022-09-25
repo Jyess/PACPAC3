@@ -49,7 +49,7 @@ During this year, you also mastered the ability to become invisible. Take advant
 4. That's it ! Enjoy the game :)
 
 ## Contact
-Axel IGHIR - <a mailto="axel.ighir@outlook.fr">axel.ighir@outlook.fr</a>
+Axel IGHIR - <a mailto="axel.ighir@outlook.fr">axel.ighir@outlook.fr</a><br>
 Project link: [PACPAC3](https://github.com/Jyess/PACPAC3)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
