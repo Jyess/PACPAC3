@@ -32,7 +32,8 @@
 
 ## About
 This is a project I made during the second year of my DUT degree. The goal was to use the knowledge we had acquired during the several classes we took. 
-The only constraint we had, besides the programming language, was the topic which was the following: "Around the K building".
+The only constraint we had, besides the programming language, was the topic which was the following: "Around the K building" (which is the building where we were
+studying).
 
 ### Story
 You are student who has failed all of his classes. Your only hope is to cheat in order to graduate. Collect the grades and avoid getting caught by the teachers.
