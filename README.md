@@ -4,7 +4,7 @@
   <h3 align="center">PACPAC 3</h3>
 
   <p align="center">
-    A simple game project written in JavaScript to experiment with classes and DOM manipulation.
+    A simple game written in JavaScript to experiment with classes and DOM manipulation.
     <br><br>
     <a href="https://github.com/Jyess/PACPAC3/issues">Report a bug</a>
   </p>
@@ -36,7 +36,7 @@ The only constraint we had, besides the programming language, was the topic whic
 studying).
 
 ### Story
-You are student who has failed all of his classes. Your only hope is to cheat in order to graduate. Collect the grades and avoid getting caught by the teachers.
+You are a student who has failed all of his classes. Your only hope is to cheat in order to graduate. Collect the grades and avoid getting caught by the teachers.
 During this year, you also mastered the ability to become invisible. Take advantage of that power to sneak around more easily.
 
 ### Built with
